@@ -1,0 +1,13 @@
+{
+  	"name": "Shiiping",
+	 "author": "Aaron Landy",
+	 "description": "A shiiping app",
+  	"version": "0.0.1",
+  	"dependencies": {
+    	        "express": "2.5.x",
+		          "sendgrid": "latest",
+  },
+  "engines": {
+        "node": "latest"
+    }
+}
